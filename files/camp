@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+		<!-- Basic Page Needs
+		================================================== -->
+		<meta charset="utf-8">
+		<title>Bay Area Equestrian Center</title>
+		<meta name="description" content="Established in 1995, the Bay Area Equestrian Center is a family owned and operated riding academy and national caliber Arabian show resource conveniently located in the Houston-Clearlake area. ">
+		<meta name="keywords" content="Arabian horses, camps, summer camps, kids activities, boarding, sales, horse training, equestrian resource, Pearland, Houston, Clearlake, Texas">
+		<!-- Mobile Specific Metas
+		================================================== -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<!-- CSS
+		================================================== -->
+		<!-- Bootstrap  -->
+		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+		<!-- web font  -->
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,800" rel="stylesheet" type="text/css">
+		<!-- plugin css  -->
+		<link rel="stylesheet" type="text/css" href="js/js-plugin/animation-framework/animate.css" />
+		<link rel="stylesheet" type="text/css" href="js/js-plugin/magnific-popup/magnific-popup.css" />
+		<link type="text/css" rel="stylesheet" href="js/js-plugin/isotope/css/style.css">
+		<link rel="stylesheet" type="text/css" href="js/js-plugin/flexslider/flexslider.css" />
+		<link rel="stylesheet" type="text/css" href="js/js-plugin/pageSlide/jquery.pageslide.css" />
+		<!-- Owl carousel-->
+		<link rel="stylesheet" href="js/js-plugin/owl.carousel/owl-carousel/owl.carousel.css">
+		<link rel="stylesheet" href="js/js-plugin/owl.carousel/owl-carousel/owl.theme.css">
+		<link rel="stylesheet" href="js/js-plugin/owl.carousel/owl-carousel/owl.transitions.css">
+		<!-- icon fonts -->
+		<link type="text/css" rel="stylesheet" href="css/custom-icons.css">
+		<link type="text/css" rel="stylesheet" href="custom-icons-ie7.css">
+		<!-- Custom css -->
+		<link type="text/css" rel="stylesheet" href="css/layout.css">
+		<link type="text/css" id="colors" rel="stylesheet" href="css/colors.css">
+		<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+		<script src="js/modernizr-2.6.1.min.js"></script>
+		<!-- Favicons
+		================================================== -->
+		<link rel="shortcut icon" href="images/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" href="images/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="images/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="images/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="images/apple-icon-144x144.png">
+	</head>
+	<body data-spy="scroll" data-target="#scrollTarget" data-offset="150">
+		<!-- Primary Page Layout 
+		================================================== -->
+		<!-- globalWrapper -->
+		<div id="globalWrapper" class = "localscroll">
+				<header id="mainHeader" class="navbar-fixed-top" role="banner">
+				<div class="container">
+					<nav class="navbar navbar-default scrollMenu" role="navigation">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button>
+							<a class="navbar-brand" href="index.html"><img src="images/Main-Logo.jpg" alt="Bay Area Equestrian Center Logo"/></a>
+						</div>
+							<div class="collapse navbar-collapse navbar-ex1-collapse" id="scrollTarget">
+								<ul class="nav navbar-nav pull-right">
+									<li class="active"><a href="/"><i class="icon-home-outline"></i>Home</a> </li>
+									<!-- <li><a href="#news"><i class="icon-comment"></i>News</a> </li> -->
+									<li><a href="http://www.secure-booker.com/bayarea/ShopOnlineStart.aspx/" target = _blank><i class="icon-users"></i>Shop Now</a> </li>
+
+								</ul>
+							</div>
+						</nav>
+					</div>
+				</header>
+			
+			<!-- content -->
+				
+				<section class="slice" id="news">
+					<div class="container imgHover">
+						<div class="row">
+							<div class="col-xs-12">
+								<h1>Riding Camps</h1>
+								<h2 class="subTitle">Limited Seats Available. Book Online!</h2>
+							</div>
+						</div>
+						<div class="row">
+							<h3>Horses are one of the most precious gifts a child can receive. However not everyone can afford to own a horse. So let us give your child a horse experience that everyone can enjoy. Come join the fun at our two-day horse camps. We will start with the basics of grooming, groundwork and safety around horses. Starting a rider in our riding camps allows them to have that one on one time with both a safe horse and a passionate instructor. They will have approximately six hours each day of fun and engaging riding time. In addition our riders will learn proper horse care, exercise, and interaction all while making lifelong friends. So if it's a fun surprise or the perfect gift, we are ready to see everyone have a successful riding career with us at Bay Area Equestrian Center! To hold a spot, call, come on by or book on-line and make your reservations.  Ages 6 and up.</h3>
+
+							<article class="col-sm-4">
+
+								<section class="imgWrapper"> 
+									<img src="images/portfolio/camp_2.jpg" class="img-responsive" alt="Summer Camp" /> 
+								</section>
+								<section class="newsText color4">
+									<h3>Summer Camp </h3>
+									<p>
+										<li>June 6,7, 2016</li>
+										<li>June 16,17, 2016</li>
+										<li>June 23,24, 2016</li>
+										<li>July 21,22, 2016</li>
+										<li>July 28,29, 2016</li>
+										<li>Aug 4,5, 2016</li>
+										<li>Aug 11,12, 2016</li>
+
+									</p>
+									<a href="https://www.secure-booker.com/bayarea/ClassSchedule/Workshops.aspx" target = _blank class="btn btn-sm"></i>Register Now</a>
+								</section>
+
+							</article>
+
+
+							<article class="col-sm-4">
+
+								<section class="imgWrapper"> 
+									<img src="images/portfolio/camp_1.jpg" class="img-responsive" alt="Winter Camp" /> 
+								</section>
+								<section class="newsText color4">
+									<h3>Spring Break Camp </h3>
+									<p>
+										<li>2017 -- TBD</li>
+									</p>
+									<a href="http://www.secure-booker.com/bayarea/ClassSchedule/Workshops.aspx" target = _blank class="btn btn-sm"></i>Register Now</a>
+								</section>
+
+							</article>
+
+							<article class="col-sm-4">
+
+								<section class="imgWrapper"> 
+									<img src="images/portfolio/camp_3.jpg" class="img-responsive" alt="Other Camp" /> 
+								</section>
+								<section class="newsText color4">
+									<h3>Other Camp Dates </h3>
+									<p>
+										<li>Black Friday - Nov 25, 2016 *1 Day Camp*</li>
+										<li>Holiday - Dec 19 -20, 2016</li>
+										<li>Holiday - Dec 26 -27, 2016</li>
+									</p>
+									<a href="http://www.secure-booker.com/bayarea/ClassSchedule/Workshops.aspx" class="btn btn-sm"></i>Register Now</a>
+								</section>
+
+							</article>
+						</div>
+					</div>
+				</section>
+								<div class="col-sm-4">
+									<h4>Address:</h4>
+									<address>
+										Bay Area Equestrian Center<br/>
+										1908 E Broadway St.<br/>
+										Pearland, TX 77581 USA <br/>
+									</address>
+									<h4>Phone:</h4>
+									<address>
+										<a href="tel:-281-996-1515">1-281-996-1515</a><br/>
+									</address>
+								</div>
+							</div>
+						</div>
+					</section>
+
+					<!-- content -->
+					<!-- footer -->
+					<footer>
+						<section id="mainFooter">
+							<div class="container" id="footer">
+								<div class="row">
+									<div class="col-sm-6">
+										<div class="footerWidget">
+											<p><a href="http://www.baectx.com" title="Bay Area Equestrian Center">Bay Area Equestrian Center</a> Established in 1995, the Bay Area Equestrian Center is a family owned and operated riding academy and national caliber Arabian show resource conventiently located in the Houston-Clearlake area! </p>
+										</div>
+									</div>
+									</div>
+								</div>
+							</section>
+						</footer>
+						<section  id="footerRights">
+							<div class="container">
+								<div class="row">
+									<div class="col-sm-6">
+										<p>Copyright © 2015 <a href="" target="blank">DLC Development</a> / All rights reserved.</p>
+									</div>
+									<div class="col-sm-6">
+										<ul class="socialNetwork pull-right">
+											<li><a href="https://www.facebook.com/Bay-Area-Equestrian-Center-100119510059582/timeline/" target = _blank class="tips" title="follow me on Facebook"><i class="icon-facebook-1 iconRounded"></i></a></li>
+											<li><a href="https://www.youtube.com/user/BayAreaEquest" target = _blank class="tips" title="" data-original-title="follow me on YouTube"><i class="icon-youtube iconRounded"></i></a></li>
+											<li><a href="" target = _blank class="tips" title="" data-original-title="follow me on Twitter"><i class="icon-twitter-bird iconRounded"></i></a></li>
+										</ul>     
+									</div>
+								</div>
+							</div>
+						</section>
+						<!-- End footer -->
+					</div>
+
+
+			<!-- End footer -->
+		</div>
+		<!-- global wrapper -->
+		<!-- End Document 
+		================================================== -->
+		<script type="text/javascript" src="js/js-plugin/respond/respond.min.js"></script>
+		<script type="text/javascript" src="js/js-plugin/jquery/jquery.1.10.2.min.js"></script>
+		<script type="text/javascript" src="js/js-plugin/jquery-ui/jquery-ui-1.8.23.custom.min.js"></script>
+		<!-- third party plugins  -->
+		<script type="text/javascript" src="js/bootstrap.js"></script>
+		<script type="text/javascript" src="js/js-plugin/easing/jquery.easing.1.3.js"></script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-83352676-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+	</body>
+	</html>
